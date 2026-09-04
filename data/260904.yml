@@ -7,7 +7,7 @@ about:
   head: 70d6d3b
   archived: false
   latestVersion: v0.11.1
-  collectedAt: 2026-09-04T19:36:34Z
+  collectedAt: 2026-09-04T20:56:21Z
 timeline:
   created: 2013-10-23
   lastCommit: 2023-10-02
@@ -80,5 +80,28 @@ total:
   openIssue: 3
   commit: 319
 ---
+path: /home/runner/.x-repo/github.com/coapjs/coap-cli
+collectedAt: 2026-09-04T20:56:21Z
+loc:
+  Json:
+    code: 6977
+    comments: 0
+    blanks: 0
+    files: 2
+  JavaScript:
+    code: 427
+    comments: 9
+    blanks: 77
+    files: 2
+  Markdown:
+    code: 0
+    comments: 53
+    blanks: 19
+    files: 1
+total:
+  code: 7404
+  comments: 62
+  blanks: 96
+  files: 5
 ---
 
