@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.11.1"
   latestRelease: "v0.11.1"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T04:56:57Z
+  collectedAt: 2026-09-09T18:45:37Z
 timeline:
   created: 2013-10-23
   lastCommit: 2023-10-02
@@ -83,7 +83,7 @@ total:
   commit: 319
 ---
 path: /home/runner/.x-repo/github.com/coapjs/coap-cli
-collectedAt: 2026-09-09T04:56:58Z
+collectedAt: 2026-09-09T18:45:38Z
 loc:
   Json:
     code: 6977
