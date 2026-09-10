@@ -4,7 +4,7 @@
 
 A command line interface for CoAP built on node-coap
 
-![coap-cli](https://repo.x-cmd.io/coap-cli.svg)
+![coap-cli](https://repo.x-cmd.io/coap-cli.svg?lang=zh)
 
 ## 安装
 
@@ -21,7 +21,6 @@ x install coap-cli
 
 - **最新版本**: `v0.11.1` (2022-05-24)
 - **最近提交**: 2023-10-02
-- **发布时间**: 2022-05-24T06:44:41Z
 
 ## 流行度
 
@@ -58,4 +57,4 @@ coap-cli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:57:03Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:34:07Z._
