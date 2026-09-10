@@ -1,24 +1,61 @@
 # coap-cli
 
+[中文版本](./README.cn.md)
+
 A command line interface for CoAP built on node-coap
 
-- **Upstream**: <https://github.com/coapjs/coap-cli>
-- **Homepage**: <>
-- **Latest release**: `v0.11.1` (2022-05-24)
-- **Last commit**: 2023-10-02
-- **License**: NOASSERTION
-- **Stars**: 82 · **Forks**: 28 · **Open issues**: 21 · **Contributors**: 9
+![coap-cli](https://repo.x-cmd.io/coap-cli.svg)
 
-## Installation
+## Install
 
 ```sh
 x install coap-cli
 ```
 
-See <https://x-cmd.com/install/coap-cli> for details.
+## Source
 
-## Data
+- **Upstream**: <https://github.com/coapjs/coap-cli>
+- **License**: NOASSERTION
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
+## Release
 
-_Last regenerated: 2026-09-09T18:45:42Z._
+- **Latest**: `v0.11.1` (2022-05-24)
+- **Last commit**: 2023-10-02
+- **Published**: 2022-05-24T06:44:41Z
+
+## Popularity
+
+- **Stars**: 82 · **Forks**: 28 · **Open issues**: 21 · **Contributors**: 9
+
+## Totals (cumulative)
+
+- **Releases**: 16 · **Merged PRs**: 119 · **Open PRs**: 2 · **Closed issues**: 18 · **Open issues**: 3 · **Commits**: 319
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-15 | 0 | 0 | 0 | 0 | 0 | 0 |
+
+## Code size
+
+Total: **7,404** lines of code across **5** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Json | 6,977 | 0 | 0 | 2 |
+| JavaScript | 427 | 9 | 77 | 2 |
+| Markdown | 0 | 53 | 19 | 1 |
+
+## Improve this data
+
+Install metadata for coap-cli lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `coap-cli` is missing, out of date, or installs incorrectly, please open an issue or PR there:
+
+- **Open an issue**: <https://github.com/x-cmd/install/issues/new>
+- **Edit the package entry**: <https://github.com/x-cmd/edit/main/coap-cli.yml> (or whichever path the index uses)
+
+The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
+
+_Snapshot: `data/card/260910.yml` · 2026-09-10T04:57:02Z._
